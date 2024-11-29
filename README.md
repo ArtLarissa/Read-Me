@@ -23,10 +23,9 @@
  
 - **Cursos Online:**  
   - *Design de Personagens e Cenários* (Domestika)  
-  - *Edição e Ilustração Digital* (Udemy)  
-  - *Power BI* (Fundação Bradesco)  
+  - *Edição e Ilustração Digital* (Udemy)   
   - *Lei Geral de Proteção de Dados (LGPD)* (Fundação Bradesco)  
-  - *Fundamentos de TI: Hardware e Software* (Fundação Bradesco)  
+ 
  
 ---
  
